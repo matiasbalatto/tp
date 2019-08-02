@@ -1,0 +1,28 @@
+
+.container{
+    
+    height: 70px;
+    
+}
+
+.alineadoCentro{
+    text-align:center;
+    justify-content: center;
+}
+
+.barra{
+    color:white;
+    height: 70px;
+    background:rgb(44, 44, 44);
+}
+
+.encabezado{
+    color:white;
+    background:rgb(44, 44, 44);
+}
+
+.loginArea{
+    padding-top:1.7em;
+    color:white;
+    text-align:right;
+}
